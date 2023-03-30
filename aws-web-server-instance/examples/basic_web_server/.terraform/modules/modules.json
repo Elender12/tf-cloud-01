@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"vpc_test","Source":"../../../../modules/aws-web-vpc","Dir":"../../../../modules/aws-web-vpc"},{"Key":"web_test","Source":"../../../../modules/aws-web-server-instance","Dir":"../../../../modules/aws-web-server-instance"}]}
