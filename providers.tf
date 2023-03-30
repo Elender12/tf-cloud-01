@@ -11,7 +11,6 @@ terraform {
 
 provider "aws" {
   region  = var.region
-  profile = var.profile
   default_tags {
     tags = {
       "${var.company}:environment" = var.environment
